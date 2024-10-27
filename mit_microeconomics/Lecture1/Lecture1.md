@@ -15,7 +15,7 @@
     * Where the supply and demand curve meets is the market equilibrium. 
     * This is the point where both consumers and producers are happy making a transaction. 
 
-![Supply and Demand Curver](Supply_And_Demand_Curve.jpg)
+![Supply and Demand Curver](../assets/Supply_And_Demand_Curve.jpg)
 
 * Positive Analysis and Normative Analysis
     * Positive Analysis - The study of the way things are. For eg. selling kidneys on ebay. Demand is extremely high, supply is very low, so the price will be very high. So, it makes economic sense.  
