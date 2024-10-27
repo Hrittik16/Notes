@@ -48,8 +48,8 @@
 * Utility Functions
 	* The idea is that every individual has a stable, well behaved, underlying mathematical representation of their preferences. This is called the utility function.   
 	* Example: $U = \sqrt{P*C}$, where P is the number of pizza slices and C is the number of cookies.
-	* P = 1, C = 2, U=$/sqrt{2}$
-	* P = 2, C = 1, U=$/sqrt{2}$
+	* P = 1, C = 2, U=$\sqrt{2}$
+	* P = 2, C = 1, U=$\sqrt{2}$
 	* P = 2, C = 2, U = 2
 	* The utility for the first two choices are similar because they're indifferent whereas the third choice has higher utility. 
 
