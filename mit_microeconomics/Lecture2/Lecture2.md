@@ -34,7 +34,7 @@
 		* Indifference curves are downward sloping. An upward sloping indifference curve which goes through let's say (1,1) and (2,2) violates our assumption "more is better". This is because (2,2) is more than (1,1) but we're saying they're indifferent. 
 		* ![Upward Sloping Indifference Curve](upward_sloping_indifference_curves.png)
 		* Indifference curves never cross. In the figure you will see that B is strictly better than C, but B and C are indifferent by the rule of transitivity. This is a violation. 
-		* ![Indifference Curve Intersecting](indifference_curve_intersecting.png)
+		* ![Indifference Curve Intersecting](indifference_curves_intersecting.png)
 		* There is only 1 indifference curve (IC) through every bundle. This is kind of similar to property 3. You cannot have 2 indifference curves going through the same bundle. This is because of completeness. If you have 2 indifference curves going through the same bundle then you would not know your exact preferance for a bundle. 
 	* Real Life Example:
 		* A grad student in economics was trying to decide which job to take. 
