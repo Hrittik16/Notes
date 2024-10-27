@@ -42,5 +42,14 @@
 		* To make this decision he decided to sketch out the indifference curve. 
 		* His preferences were: Location of the institute and the Quality of his future colleagues. 
 		* Princeton had good economists but the location was bad for a young single male, Santa Cruz had better location but didn't have very good economists. According to him both these jobs were indifferent. 
-		* IMF in Washington DC on the other hand didn't have economists as good as Princeton nor was the location as good as Santa Cruz but the grad student decided to go for IMF. The indifference curve for IMF was higher than that of Princeton and Santa Cruz.
+		* IMF in Washington DC on the other hand had worse colleagues than Princeton and a worse location than Santa Cruz, it was still better in combination of the two of them given his preferences. 
 		* ![Job Search](../assets/job_search.png)
+
+* Utility Functions
+	* The idea is that every individual has a stable, well behaved, underlying mathematical representation of their preferences. This is called the utility function.   
+	* Example: $U = \sqrt{P*C}$, where P is the number of pizza slices and C is the number of cookies.
+	* P = 1, C = 2, U=$/sqrt{2}$
+	* P = 2, C = 1, U=$/sqrt{2}$
+	* P = 2, C = 2, U = 2
+	* The utility for the first two choices are similar because they're indifferent whereas the third choice has higher utility. 
+
