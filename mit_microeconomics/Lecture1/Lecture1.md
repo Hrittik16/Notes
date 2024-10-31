@@ -23,7 +23,7 @@
 
 * Adam Smith believes there is an invisible hand in Capitalism that keeps things in check.
     * Invisible Hand View - Consumers and Firms serving their own best interest will do what is best for society. 
-    * Best for society - Most stuff gets produced and consumed. Best for society means maximum surplus. Most stuff gets produced that people value. 
+    * Best for society - Most stuff gets produced and consumed. Most stuff gets produced that people value. 
 
 * What we will learn in this course:
     * How does individuals and firms acting in their own self interest, without caring about anybody else ends up yielding largest possible productive economy. 

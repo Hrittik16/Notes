@@ -79,7 +79,7 @@
 	* Marginal Rate of Substitution (MRS) = $\Delta{P}/\Delta{C} = -MU_C/MU_P$, where MU is the Marginal Utility
 	* MRS is equal to the -ve of the marginal utility of the good on the x-axis over y-axis.
 	* The MRS tells us how our relative marginal utilities evolve as we move down the indifference curve. 
-	* ##### Marginal Utilities are negative functions of quantity. The more you have a thing, the less you want a next unit of it.
+	* #### Marginal Utilities are negative functions of quantity. The more you have a thing, the less you want a next unit of it.
 	* When we start at point A, we have lots of pizzas and not a lot of cookies. When you have lots of pizza your marginal utility for pizza is small. But we want more cookies. So, the marginal utility of cookies will be large. $-MU_C/MU_P$ hence will be a large negative quantity because the denominator is small and numerator is large.
 	* When we go from point B to C, the number of pizza slices is going from 2 to 1. So, the marginal utility for pizza will be much more than cookies and the MRS will get smaller.
 	* As you move along the indifference curve, you're more and more willing to give up the good on the x-axis to get the good on the y-axis.
